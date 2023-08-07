@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 ## ▎Github-stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesowkj1&theme=radical)  <img src="https://raw.githubusercontent.com/tesowkj1/github-stats-transparent/output/generated/languages.svg" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesowkj1&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tesowkj1&layout=compact&hide_border=true&theme=radical)
