@@ -21,4 +21,3 @@
 
 ## ▎Github-stats
   ![Anurag's GitHub stats](https://git-stats-seven.vercel.app/api?username=tesowkj1&theme=radical)  ![Top Langs](https://github-readme-stats-fork-dbcs.vercel.app/api/top-langs/?username=tesowkj1&layout=compact)
-p
