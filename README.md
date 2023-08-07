@@ -1,9 +1,9 @@
-## ▎ Backend Developer - Berry       
+## ▎Backend Developer - Berry       
 - 자바, 스프링 부트 기반으로 백엔드 개발을 하고 있는 6년차 개발자 베리입니다.
 - 좋은 코드를 만들기 위해 노력하고 있으며 안정적인 시스템을 구축하는 것을 추구하고 있습니다.
 - 요즘 관심을 가지고 있는 기술은 Kafka, DDD, Kotlin 입니다.
 
-## ▎🛠 Tech Stacks
+## ▎Stacks
 - Language<br/>
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 - Backend<br/>
@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
+## ▎Github-stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesowkj1&theme=radical)
